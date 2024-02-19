@@ -11,7 +11,6 @@
 - 📖 Upgrading my skills in DevOps right now
 - 💬 Waiting for your message on <a href="https://linkedin.com/in/viacheslav-myrhorod/">LinkedIn<a>
 - 👯 Hope we'll become friends, chat me anytime!
-- ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
