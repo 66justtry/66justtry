@@ -6,7 +6,7 @@
 ### About Me:
 - 🏦 I'm a Backend Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 Open for new opportunities as a Trainee/Junior developer
+- 📝 Open for new opportunities as a Strong Junior / Middle developer
 - 💻 Main stack: C#/.NET, ASP.NET Core, SQL, EF Core, Angular, Docker
 - 📖 Upgrading my skills in DevOps right now
 - 💬 Waiting for your message on <a href="https://linkedin.com/in/viacheslav-myrhorod/">LinkedIn<a>
