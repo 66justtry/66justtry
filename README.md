@@ -6,8 +6,8 @@
 ### About Me:
 - 🏦 I'm a Backend Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 Open for new opportunities as a Strong Junior / Middle developer
-- 💻 Main stack: C#/.NET, ASP.NET Core, SQL, EF Core, Angular, Docker
+- 📝 Open for new opportunities as a Middle developer
+- 💻 Main stack: C#/.NET, ASP.NET Core, SQL, EF Core, Docker, K8s
 - 📖 Upgrading my skills in DevOps right now
 - 💬 Waiting for your message on <a href="https://linkedin.com/in/viacheslav-myrhorod/">LinkedIn<a>
 - 👯 Hope we'll become friends, chat me anytime!
@@ -19,8 +19,5 @@
       <img src="https://brandeps.com/logo-download/M/Microsoft-sql-server-logo-vector-01.svg" alt="mssqlserver" width="65" height="65"/>
       <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/postgre-sql.svg" alt="pgsql" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>
-      <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/logos/javascript.svg" alt="js" width="65" height="65"/>
-      <img src="https://vectorwiki.com/images/IcHfP__typescript.svg" alt="ts" width="65" height="65"/>
-      <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/angularjs.dark.svg" alt="angular" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="65" height="65"/>
 </p>
